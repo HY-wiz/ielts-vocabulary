@@ -1,0 +1,27 @@
+{
+  "updatedAt": "2026-10-04T07:55:30.731784+00:00",
+  "note": "Recent RSS headlines filtered by a small academic vocabulary list; not an IELTS frequency ranking.",
+  "candidates": [
+    {
+      "word": "approach",
+      "count": 1,
+      "sources": [
+        "BBC Science"
+      ]
+    },
+    {
+      "word": "environment",
+      "count": 1,
+      "sources": [
+        "BBC Science"
+      ]
+    },
+    {
+      "word": "export",
+      "count": 1,
+      "sources": [
+        "BBC Business"
+      ]
+    }
+  ]
+}

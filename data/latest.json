@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-10T01:36:17.664835+00:00",
+  "updatedAt": "2026-10-11T01:34:50.088037+00:00",
   "note": "Recent RSS headlines filtered by a small academic vocabulary list; not an IELTS frequency ranking.",
   "candidates": [
     {
-      "word": "major",
-      "count": 2,
+      "word": "data",
+      "count": 3,
       "sources": [
+        "BBC Business",
         "BBC Science"
       ]
     },
     {
-      "word": "data",
+      "word": "major",
       "count": 2,
       "sources": [
-        "BBC Business",
         "BBC Science"
       ]
     },

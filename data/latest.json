@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-10-16T01:48:28.685651+00:00",
+  "updatedAt": "2026-10-17T01:47:26.347867+00:00",
   "note": "Recent RSS headlines filtered by a small academic vocabulary list; not an IELTS frequency ranking.",
   "candidates": [
-    {
-      "word": "impact",
-      "count": 1,
-      "sources": [
-        "BBC Science"
-      ]
-    },
     {
       "word": "data",
       "count": 1,

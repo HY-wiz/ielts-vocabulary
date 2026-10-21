@@ -1,16 +1,9 @@
 {
-  "updatedAt": "2026-10-20T01:50:51.332218+00:00",
+  "updatedAt": "2026-10-21T06:06:49.019742+00:00",
   "note": "Recent RSS headlines filtered by a small academic vocabulary list; not an IELTS frequency ranking.",
   "candidates": [
     {
-      "word": "data",
-      "count": 1,
-      "sources": [
-        "BBC Business"
-      ]
-    },
-    {
-      "word": "finance",
+      "word": "legal",
       "count": 1,
       "sources": [
         "BBC Business"

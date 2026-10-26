@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-25T06:14:47.051905+00:00",
+  "updatedAt": "2026-10-26T06:23:27.051729+00:00",
   "note": "Recent RSS headlines filtered by a small academic vocabulary list; not an IELTS frequency ranking.",
   "candidates": [
     {
-      "word": "labour",
-      "count": 1,
+      "word": "data",
+      "count": 2,
       "sources": [
         "BBC Business"
       ]
@@ -17,14 +17,14 @@
       ]
     },
     {
-      "word": "policy",
+      "word": "labour",
       "count": 1,
       "sources": [
         "BBC Business"
       ]
     },
     {
-      "word": "data",
+      "word": "policy",
       "count": 1,
       "sources": [
         "BBC Business"

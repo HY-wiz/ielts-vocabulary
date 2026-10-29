@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T06:54:33.273198+00:00",
+  "updatedAt": "2026-10-29T07:12:49.829421+00:00",
   "note": "Recent RSS headlines filtered by a small academic vocabulary list; not an IELTS frequency ranking.",
   "candidates": [
     {
@@ -7,20 +7,6 @@
       "count": 2,
       "sources": [
         "BBC Science"
-      ]
-    },
-    {
-      "word": "income",
-      "count": 2,
-      "sources": [
-        "BBC Business"
-      ]
-    },
-    {
-      "word": "economic",
-      "count": 1,
-      "sources": [
-        "BBC Business"
       ]
     }
   ]

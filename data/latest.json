@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T08:25:04.803250+00:00",
+  "updatedAt": "2026-11-13T08:07:55.993475+00:00",
   "note": "Recent RSS headlines filtered by a small academic vocabulary list; not an IELTS frequency ranking.",
   "candidates": [
     {
@@ -11,7 +11,7 @@
     },
     {
       "word": "significant",
-      "count": 2,
+      "count": 1,
       "sources": [
         "BBC Science"
       ]

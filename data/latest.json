@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-11-16T08:03:20.638723+00:00",
+  "updatedAt": "2026-11-17T09:18:12.975248+00:00",
   "note": "Recent RSS headlines filtered by a small academic vocabulary list; not an IELTS frequency ranking.",
   "candidates": [
-    {
-      "word": "significant",
-      "count": 1,
-      "sources": [
-        "BBC Science"
-      ]
-    },
     {
       "word": "impact",
       "count": 1,
@@ -24,14 +17,14 @@
       ]
     },
     {
-      "word": "legal",
+      "word": "major",
       "count": 1,
       "sources": [
         "BBC Business"
       ]
     },
     {
-      "word": "major",
+      "word": "legal",
       "count": 1,
       "sources": [
         "BBC Business"
